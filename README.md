@@ -1,6 +1,6 @@
 # PiTurret
 
-This project has been developed by Onur Demiray Doğancan Tüfekcioğlu
+This project has been developed by Onur Demiray and Doğancan Tüfekcioğlu
 
 # What does it do?
 
