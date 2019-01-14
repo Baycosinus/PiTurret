@@ -1,6 +1,8 @@
-# PiTurret
+# PiTurret - Server
 
-This project has been developed by Onur Demiray and Doğancan Tüfekcioğlu
+This project has been developed by Onur Demiray and Doğancan Tüfekcioğlu.
+
+Please note that Client Application (Android) moved to another repository (PiTurret-Client) for better organisation.
 
 # What does it do?
 
@@ -10,6 +12,5 @@ PiTurret is simply an autonomus robotic prototype which is able to detect human 
 
     -OpenCV for face detection (Source: https://docs.opencv.org/3.4/d7/d8b/tutorial_py_face_detection.html)
     -Python Socket Server (Source: https://youtu.be/qU1woglr_yU)
-    -Android Application (Joystick script Source: https://youtu.be/Em4Qa09-y90)
-
+    -Android Application (Joystick script Source: https://youtu.be/Em4Qa09-y90) (moved to PiTurret-Client repository)
 
